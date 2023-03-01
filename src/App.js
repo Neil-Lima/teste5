@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>Madara Uchiha</h1>
-      <h2>izuna</h2>      
+      <h2>hashirama</h2>      
     </div>
   );
 }
