@@ -5,8 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>Madara Uchiha</h1>
-      <h2>izuna</h2>
-      <p>Kakashi<p/>
+      <h2>izuna</h2>      
     </div>
   );
 }
