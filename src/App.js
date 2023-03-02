@@ -1,11 +1,10 @@
+import logo from './logo.svg';
 import './App.css';
-
+import Rotas from './routes/Rotas'
 function App() {
   return (
     <div className="App">
-      <h1>Madara Uchiha</h1>
-      <h2>donald trump</h2>      
-      <h2>donald trump</h2>  
+    <Rotas/>
     </div>
   );
 }
