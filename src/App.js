@@ -5,6 +5,7 @@ function App() {
     <div className="App">
       <h1>Madara Uchiha</h1>
       <h2>donald trump</h2>      
+      <h2>donald trump</h2>  
     </div>
   );
 }
